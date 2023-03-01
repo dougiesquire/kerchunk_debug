@@ -1,6 +1,7 @@
 dask
-h5py
-kerchunk
+fsspec==2023.1.0
+h5py==3.8.0
+kerchunk==0.1.0
 matplotlib
 nc-time-axis
 netcdf4
