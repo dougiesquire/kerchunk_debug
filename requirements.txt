@@ -1,4 +1,4 @@
-dask
+dask==2022.9.2
 fsspec==2023.1.0
 h5py==3.8.0
 kerchunk==0.1.0
