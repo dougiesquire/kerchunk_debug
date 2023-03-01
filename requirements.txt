@@ -1,6 +1,7 @@
 dask
 h5py
 kerchunk
+matplotlib
 netcdf4
 ujson
 xarray
