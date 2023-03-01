@@ -5,5 +5,5 @@ kerchunk==0.1.0
 matplotlib
 nc-time-axis
 netcdf4
-ujson
+ujson==5.7.0
 xarray
