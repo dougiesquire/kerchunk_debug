@@ -2,6 +2,7 @@ dask
 h5py
 kerchunk
 matplotlib
+nc-time-axis
 netcdf4
 ujson
 xarray
