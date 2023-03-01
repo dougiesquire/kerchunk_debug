@@ -1,4 +1,5 @@
 h5py
 kerchunk
+netcdf4
 ujson
 xarray
